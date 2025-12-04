@@ -1,0 +1,1 @@
+{\n  "name": "autoapp-builder",\n  "version": "0.1.0",\n  "private": true,\n  "scripts": {\n    "dev": "next dev",\n    "build": "next build",\n    "start": "next start"\n  },\n  "dependencies": {\n    "next": "13.5.6",\n    "react": "18.2.0",\n    "react-dom": "18.2.0"\n  }\n}
